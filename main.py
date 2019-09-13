@@ -15,7 +15,7 @@ from lib.config import cfg, cfg_from_file, cfg_from_list
 from lib.test_net import test_net
 from lib.train_net import train_net
 
-
+#jsnflksnflksmf;ls
 def parse_args():
     parser = argparse.ArgumentParser(description='Main 3Deverything train/test file')
     parser.add_argument(
